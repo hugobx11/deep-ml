@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:09:24.426Z",
+  "generated_at": "2026-11-14T23:22:00.730Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -118,6 +118,19 @@
       "path": "math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma",
       "first_solved_at": "2026-11-14T23:09:23.778Z",
       "last_pushed_at": "2026-11-14T23:09:23.778Z"
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-11-14T23:21:59.775Z",
+      "last_pushed_at": "2026-11-14T23:21:59.775Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
