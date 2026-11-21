@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:12:45.385Z",
+  "generated_at": "2026-11-21T18:14:17.792Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -355,6 +355,17 @@
       "last_pushed_at": "2026-11-21T18:12:44.737Z",
       "language": "python",
       "lines": 25
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-21T18:14:17.207Z",
+      "last_pushed_at": "2026-11-21T18:14:17.207Z"
     }
   }
 }
