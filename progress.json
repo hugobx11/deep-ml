@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:49:08.883Z",
+  "generated_at": "2026-11-26T14:24:36.277Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -542,6 +542,19 @@
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-11-24T20:49:08.173Z",
       "last_pushed_at": "2026-11-24T20:49:08.173Z"
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-11-26T14:24:35.525Z",
+      "last_pushed_at": "2026-11-26T14:24:35.525Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
